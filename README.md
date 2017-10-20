@@ -15,3 +15,10 @@
 13. https://docs.docker.com/compose/compose-file/#args
 14. https://forums.docker.com/t/best-practices-for-getting-code-into-a-container-git-clone-vs-copy-vs-data-container/4077/10
 15. https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/
+
+Groovy rest client to connect to a NodeJS based HTTPS server
+------------------------------------------------------------
+
+1. Run httpsServerWith302.js as `node httpsServer.js`
+2. Run groovyRestClient.groovy as `groovy restClient.groovy`
+3. 
